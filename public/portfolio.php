@@ -1,7 +1,7 @@
 <?php include('header.php');?>
     <section class="projects">
         <h2 id="latest-projects" class="mb-3">Portfolio</h2>
-        <p>These are some projects I have participated that belong to other agencies and private clients:</p>
+        <p>These are some of the projects I have been involved in over the years, including work completed directly for clients as well as collaborations with the agencies I have been part of. They span a variety of industries and technical requirements, reflecting my experience in building custom solutions, integrating external services, and developing platforms tailored to specific business needs.</p>
         <ul class="list-unstyled mt-4">
             <li class="project-item mb-3 p-3">
                 <div class="mb-4">
