@@ -59,6 +59,17 @@
             </li>
             <li class="project-item mb-3 p-3">
                 <div class="mb-4">
+                    <img src="images/booking-1.png" class="rounded img-fluid" />
+                </div>
+                <div class="mb-4">
+                    <b>Booking System  - Laravel</b> · <i>Working at Essential IT</i>
+                </div>
+                <ul>
+                    <li>Platform for reserving tee times for golf simulators, built in Laravel and powered by FullCalendarJS.</li>
+                </ul>
+            </li>
+            <li class="project-item mb-3 p-3">
+                <div class="mb-4">
                     <img src="images/invitacionesmagicas-1.png" class="img-fluid" />
                 </div>
                 <strong>Invitaciones Mágicas - Laravel / FilamentPHP</strong>
