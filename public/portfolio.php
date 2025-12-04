@@ -54,7 +54,7 @@
                     <b>Westborn Market - CraftCMS</b> · <i>Working at Essential IT</i>
                 </div>
                 <ul>
-                    <li>Implemented a shipping method per item on CraftCMS.</li>
+                    <li>Implemented a per-item shipping method in CraftCMS.</li>
                 </ul>
             </li>
             <li class="project-item mb-3 p-3">
