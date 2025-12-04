@@ -11,12 +11,12 @@
                     <b>Claim Engine - Laravel / Vue </b> · <i>Working at Essential IT</i>
                 </div>
                 <ul>
-                    <li>Excel Importer using Laravel Excel to allow the user select columns and layout of the file and import to the database.</li>
-                    <li>Contacts module to allow the user to manage contacts and send emails to them, using Listeners and Events to reuse code on different modules.</li>
-                    <li>Documents module to tag files and assign permissions to users.</li>
-                    <li>Paid Time-Off module to manage employees PTO and accumulations.</li>
-                    <li>Company Nurse API Integration.</li>
-                    <li>Medcor API Integration.</li>
+                    <li>Excel importer built with Laravel Excel, allowing users to map columns, define file layouts, and import data into the database.</li>
+                    <li>Contacts module enabling users to manage contacts and send emails, leveraging Events and Listeners for reusable logic across modules.</li>
+                    <li>Clients and Claim Documents module for tagging files and assigning user-specific permissions.</li>
+                    <li>Paid Time Off module to manage employee PTO balances and accruals.</li>
+                    <li>Integration with the Company Nurse API.</li>
+                    <li>Integration with the Medcor API.</li>
                 </ul>
             </li>
             <li class="project-item mb-3 p-3">
@@ -28,8 +28,23 @@
                 </div>
                 <ul>
                     <li>Programmed the survey formula calculation. I have implemented results tests to make easy and secure to modify the formula calculation.</li>
-                    <li>Implemented the new version of the site using Elementor and custom Elementor Widgets. </li>
+                    <li>Implemented the new version of the site using Elementor and custom Elementor widgets.</li>
                 </ul>
+            </li>
+            <li class="project-item mb-3 p-3">
+                <div class="mb-4">
+                    <img src="images/bsmarter-1.png" class="rounded img-fluid" />
+                </div>
+                <strong>Course Platform - Laravel /
+                    Vue</strong>
+                <p>Courses platform integrated with Vimeo, featuring an assessments builder. Developed in Laravel with Vue used for complex interactive components.</p>
+            </li>
+            <li class="project-item mb-3 p-3">
+                <div class="mb-4">
+                    <img src="images/colegio-2.png" class="rounded img-fluid" />
+                </div>
+                <strong>Scholar Tuitions Manager - Laravel</strong>
+                <p>Platform for manage scholar payments build in Laravel, includes registration, groups, and reporting by periods.</p>
             </li>
             <li class="project-item mb-3 p-3">
                 <div class="mb-4">
@@ -41,15 +56,6 @@
                 <ul>
                     <li>Implemented a shipping method per item on CraftCMS.</li>
                 </ul>
-            </li>
-            <li class="project-item mb-3 p-3">
-                <div class="mb-4">
-                    <img src="images/bsmarter-1.png" class="rounded img-fluid" />
-                </div>
-                <strong>Course Platform - Laravel /
-                    Vue</strong>
-                Courses platform integrated with Vimeo with assessments builder. Built in Laravel and Vue for
-                complex components.
             </li>
             <li class="project-item mb-3 p-3">
                 <div class="mb-4">
